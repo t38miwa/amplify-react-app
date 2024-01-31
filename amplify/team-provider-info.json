@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awstutorialwithreact80b924b4": {}
+      },
+      "api": {
+        "awstutorialwithreact": {}
       }
     }
   }
